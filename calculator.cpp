@@ -21,7 +21,7 @@ int main(){
         cout<<n1/n2<<endl;
         break;
         default:
-        cout<<"none of my business"<<endl;
+        cout<<"error"<<endl;
     }
     return 0;
    }
